@@ -6,7 +6,7 @@
 /*   By: mbriffau <mbriffau@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2016/11/12 21:10:16 by mbriffau          #+#    #+#             */
-/*   Updated: 2017/02/24 10:07:06 by mbriffau         ###   ########.fr       */
+/*   Updated: 2017/09/22 00:43:25 by mbriffau         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -19,6 +19,7 @@
 # include <stdio.h>
 # include <ctype.h>
 # include <unistd.h>
+# include "get_next_line.h"
 
 typedef struct		s_list
 {
